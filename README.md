@@ -1,10 +1,10 @@
 # Economia IDS
 
-Sei pagine per ripassare Impresa e Decisioni Strategiche:
+Cinque pagine per ripassare Impresa e Decisioni Strategiche:
 
 - **index.html**: i concetti principali del modulo 0.
 - **strategia.html**: una mappa semplice degli strumenti di strategia.
-- **bilancio.html**: regole, formule e collegamenti essenziali.
+- **bilancio.html**: bilancio di esercizio e analisi di bilancio, con riassunti singoli e slide del professore.
 - **esercizi.html**: metodo, scritture frequenti e controlli finali.
 - **parziale.html**: mappa dei contenuti del primo parziale e autoverifica.
 
@@ -22,4 +22,4 @@ La pagina del parziale include IDS_Integrata_Ottimizzata_Schemi_Bilancio e Impre
 
 Settings → Pages → Deploy from a branch → main → / (root).
 
-- da-controllare.html: Analisi di bilancio, PDF riassuntivo dettagliato e slide originali.
+Analisi di bilancio è inclusa nella pagina 03 Bilancio. Il vecchio indirizzo reindirizza alla sezione aggiornata.
