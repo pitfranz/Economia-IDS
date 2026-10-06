@@ -16,7 +16,7 @@ I PDF si leggono nel visualizzatore interno, con scorrimento continuo, salto all
 
 I PDF di Strategia e Bilancio sono le dispense individuali recuperate. Per Introduzione il vecchio riassunto separato non e stato recuperato: il PDF dedicato deriva dal modulo 0 della dispensa integrata. Sono allegati anche i PDF del professore.
 
-La pagina del parziale include IDS_Integrata_Ottimizzata_Schemi_Bilancio e Imprese e decisioni strategiche esame completo. La guida PDF degli esercizi conserva i casi completi e le ipotesi di ricostruzione degli appunti.
+La pagina del parziale include IDS_Integrata_Ottimizzata_Schemi_Bilancio e Imprese e decisioni strategiche esame completo. La guida PDF degli esercizi segue le soluzioni Home Design 2021 e 2022, corregge i dati degli appunti e spiega scritture e prospetti finali. Sono allegate le soluzioni del professore (2.2.2).
 
 ## GitHub Pages
 
